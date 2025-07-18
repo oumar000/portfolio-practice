@@ -11,5 +11,7 @@
   --container-padding-sm: 2rem;
   --container-padding-md: 2rem;
   --container-padding-lg: 2rem;
+
+  --font-family-sans: var(--font-sans);
+  --font-family-serif: var(--font-serif);
   }
-}
